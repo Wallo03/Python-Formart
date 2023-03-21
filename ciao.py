@@ -4,3 +4,4 @@ def ciao(a,b):
     return operazione
 
 saluti = ciao(3,5)
+print(saluti)
