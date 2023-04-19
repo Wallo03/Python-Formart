@@ -1,4 +1,4 @@
-#ciao è una belal gioernata
+#ciao è una bella gioernata
 def ciao(a,b):
     operazione = a * b
     return operazione
